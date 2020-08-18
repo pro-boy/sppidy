@@ -1,4 +1,4 @@
-### Welcome to LøvelyBuggies's Hut 👋
+### Welcome to JARVIS's Hut 👋
 
 <a href="creatorofjarvis@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
