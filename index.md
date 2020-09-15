@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Welcome to JARVIS's Hut 👋
 
-You can use the [editor on GitHub](https://github.com/jarvis210904/jarvis210904/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="creatorofjarvis@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br />
+<br />
 
-### Markdown
+Hi, I'm JARVIS 😉, a programmer 👨🏻‍💻 from India 🇮🇳. I'm an open-source profession and always develop in Python 🐍. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-```markdown
-Syntax highlighted code block
+**Current Status Quo**
 
-# Header 1
-## Header 2
-### Header 3
+- 👨🏻‍💻 I’m currently working on [JARVIS Userbot](https://github.com/scikit-hep/J.A.R.V.I.S-Userbot) and JARVIS SECURITY (Currently Private)
+- 🌱 I’m currently learning Python.
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 💼 I’m am a School Student.
+- 📫 Please email via creatorofjarvis@gmail.com to reach me.
 
-- Bulleted
-- List
+![JARVIS's github stats](https://github-readme-stats.vercel.app/api?username=jarvis210904&show_icons=true&hide_border=true)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jarvis210904/jarvis210904/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+⭐️ From [JARVIS](https://github.com/jarvis210904)
