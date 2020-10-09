@@ -13,7 +13,7 @@ Hi, I'm ѕρι∂у 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+**Current Status**
 
 - 👨🏻‍💻 I’m currently working on [JARVIS Userbot](https://github.com/Jarvis-Works/jarvisuserbot) and JARVIS SECURITY (Currently Private)
 - 🌱 I’m currently learning Python.
