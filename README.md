@@ -5,6 +5,7 @@
 </a>
 
 <br />
+![](https://visitor-badge.glitch.me/badge?page_id=sppidy)
 <br />
 
 Hi, I'm ѕρι∂у 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm an Open-Source Profession and Always Develop in Python 🐍. Beside's programming, I like Delicious food 🥗🥩🌮🍣 and Doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
