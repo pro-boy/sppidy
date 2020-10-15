@@ -11,7 +11,6 @@
 
 Hi, I'm ѕρι∂у 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm an Open-Source Profession and Always Develop in Python 🐍. Beside's programming, I like Delicious food 🥗🥩🌮🍣 and Doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status**
 
@@ -20,9 +19,8 @@ Hi, I'm ѕρι∂у 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm 
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I’m am a School Student.
 - 📫 Please email via creatorofjarvis@gmail.com to reach me.
-
+⭐️ From [ѕρι∂у](https://github.com/sppidy)
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sppidy&theme=algolia&show_icons=true" alt="sppidy"/></p>
 
 
 
-⭐️ From [ѕρι∂у](https://github.com/sppidy)
