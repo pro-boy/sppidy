@@ -21,6 +21,7 @@ Hi, I'm ѕρι∂у 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm 
 - 💼 I’m am a School Student.
 - 📫 Please email via creatorofjarvis@gmail.com to reach me.
 
-![ѕρι∂у's github stats](https://github-readme-stats.vercel.app/api?username=sppidy&show_icons=true&hide_border=true)
+!<src="https://github-readme-stats.vercel.app/api?username=sppidy&theme=algolia&show_icons=true" alt="sppidy"/>
+
 
 ⭐️ From [ѕρι∂у](https://github.com/sppidy)
